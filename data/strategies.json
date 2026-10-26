@@ -1,0 +1,506 @@
+[
+  {
+    "group": "W",
+    "title": "Main Idea & Topic",
+    "definition": "Topik adalah pokok bahasan. Main idea adalah pesan utama penulis tentang topik itu. Diuji agar pembaca menangkap keseluruhan bacaan.",
+    "stem": "What is the main idea of the passage?",
+    "steps": [
+      "Tentukan siapa atau apa yang dibahas.",
+      "Ringkas fungsi setiap paragraf.",
+      "Gabungkan gagasan berulang menjadi satu kalimat.",
+      "Pilih cakupan yang mewakili seluruh teks."
+    ],
+    "trap": "Detail menarik bisa benar tetapi terlalu sempit. Kalimat pertama hanya petunjuk awal.",
+    "tip": "Topik = frasa. Main idea = pernyataan lengkap.",
+    "micro": "The school garden provides vegetables for lunch. Students also learn how plants grow there.\nWhat is the main idea?\nA. The garden supports food and learning.\nB. Students eat lunch at home.",
+    "answer": "A",
+    "evidence": "Dua manfaat: vegetables for lunch dan learn how plants grow. B bertentangan dengan konteks.",
+    "source": "Wajib hlm. 12-13"
+  },
+  {
+    "group": "W",
+    "title": "Specific Information",
+    "definition": "Informasi tersurat disebut langsung. Keterampilan ini menguji ketepatan menemukan detail, termasuk angka dan rujukan.",
+    "stem": "According to the text, which statement is correct?",
+    "steps": [
+      "Tandai orang, waktu, tempat, atau angka pada pertanyaan.",
+      "Scan bagian yang relevan.",
+      "Baca kalimat sebelum dan sesudahnya.",
+      "Cocokkan makna, termasuk negasi dan satuan."
+    ],
+    "trap": "Kata sama tidak menjamin informasi sama. Periksa NOT dan EXCEPT.",
+    "tip": "Cari bukti satu kalimat sebelum memilih.",
+    "micro": "The lab opens at seven and closes at three.\nWhen does it close?\nA. At seven.\nB. At three.",
+    "answer": "B",
+    "evidence": "closes at three menjawab close. Seven adalah waktu buka.",
+    "source": "Wajib hlm. 5, 12"
+  },
+  {
+    "group": "W",
+    "title": "Inference",
+    "definition": "Inferensi menggabungkan petunjuk untuk menyimpulkan sesuatu yang tidak tertulis langsung. Ini menguji alasan yang tetap berpijak pada teks.",
+    "stem": "What can be inferred from the text?",
+    "steps": [
+      "Kumpulkan dua petunjuk relevan.",
+      "Hubungkan petunjuk secara logis.",
+      "Rumuskan simpulan paling terbatas.",
+      "Tolak simpulan yang memerlukan fakta tambahan."
+    ],
+    "trap": "Kemungkinan di dunia nyata belum tentu didukung bacaan.",
+    "tip": "Petunjuk + hubungan logis = inferensi.",
+    "micro": "Mira brought an umbrella. Dark clouds covered the sky.\nWhat did Mira probably expect?\nA. Rain.\nB. A power cut.",
+    "answer": "A",
+    "evidence": "Umbrella dan dark clouds mendukung kemungkinan hujan. Tidak ada petunjuk listrik padam.",
+    "source": "Wajib hlm. 2-3, 16"
+  },
+  {
+    "group": "W",
+    "title": "Author's Purpose",
+    "definition": "Tujuan penulis adalah efek yang ingin dicapai pada pembaca. Diuji melalui fungsi keseluruhan teks dan sasaran pembacanya.",
+    "stem": "Why did the author write the text?",
+    "steps": [
+      "Kenali genre dan pembaca sasaran.",
+      "Cari ajakan, penjelasan, atau deskripsi.",
+      "Amati bagian pembuka dan penutup.",
+      "Pilih tujuan yang sesuai seluruh isi."
+    ],
+    "trap": "Pilihan yang hanya menamai topik belum menjelaskan tujuan.",
+    "tip": "Tanya: penulis ingin pembaca tahu, merasa, atau melakukan apa?",
+    "micro": "First, switch off the computer. Then unplug the cable.\nWhat is the purpose?\nA. To entertain readers.\nB. To give instructions.",
+    "answer": "B",
+    "evidence": "First dan Then mengatur tindakan. Tidak ada alur cerita untuk menghibur.",
+    "source": "Wajib hlm. 6"
+  },
+  {
+    "group": "W",
+    "title": "Moral Value",
+    "definition": "Pesan moral adalah nilai yang bisa diterapkan dari konflik, tindakan, dan akhir cerita. Diuji untuk memahami makna cerita.",
+    "stem": "What lesson can be learned from the story?",
+    "steps": [
+      "Temukan masalah tokoh.",
+      "Hubungkan tindakan dengan akibat.",
+      "Lihat perubahan di akhir cerita.",
+      "Pilih nilai umum yang didukung alur."
+    ],
+    "trap": "Nasihat yang terdengar baik bisa tidak berkaitan dengan cerita.",
+    "tip": "Moral harus punya bukti tindakan dan akibat.",
+    "micro": "A proud runner ignored practice and lost to a careful beginner.\nWhich lesson fits?\nA. Preparation matters.\nB. Beginners always win.",
+    "answer": "A",
+    "evidence": "Ignored practice berkaitan dengan lost. Always pada B melebihi satu peristiwa.",
+    "source": "Wajib hlm. 1-2, 8-10"
+  },
+  {
+    "group": "W",
+    "title": "Character Analysis",
+    "definition": "Sifat tokoh disimpulkan dari tindakan, ucapan, dan respons. Ini menguji pemilihan sifat beserta bukti, bukan sekadar kesan.",
+    "stem": "Which sentence best shows the character is responsible?",
+    "steps": [
+      "Tentukan tokoh dan adegan.",
+      "Catat tindakan atau ucapan konkret.",
+      "Pilih sifat yang menjelaskan perilaku.",
+      "Periksa apakah sifat berubah selama cerita."
+    ],
+    "trap": "Tindakan satu tokoh sering dipindahkan ke tokoh lain dalam pengecoh.",
+    "tip": "Sifat harus ditopang kata kerja.",
+    "micro": "Rafi checked every cable before leaving the lab.\nWhich trait fits?\nA. Careless.\nB. Responsible.",
+    "answer": "B",
+    "evidence": "Checked every cable memperlihatkan kehati-hatian. Careless bertentangan dengan tindakan.",
+    "source": "Wajib hlm. 3, 11"
+  },
+  {
+    "group": "W",
+    "title": "Sequence of Events",
+    "definition": "Urutan peristiwa menyusun kejadian sesuai waktu atau langkah. Diuji agar ringkasan mempertahankan alur dan hubungan prasyarat.",
+    "stem": "Which sequence best summarizes the events?",
+    "steps": [
+      "Cari penanda waktu atau nomor langkah.",
+      "Daftar kejadian utama secara singkat.",
+      "Tentukan kejadian yang harus mendahului lainnya.",
+      "Bandingkan urutan dan isi setiap opsi."
+    ],
+    "trap": "Semua peristiwa bisa benar, tetapi urutannya salah.",
+    "tip": "Cek awal, titik balik, lalu akhir.",
+    "micro": "Sita planted seeds, watered them, and harvested spinach.\nWhat happened second?\nA. She watered the seeds.\nB. She harvested spinach.",
+    "answer": "A",
+    "evidence": "Watered berada setelah planted dan sebelum harvested.",
+    "source": "Wajib hlm. 1, 6, 9"
+  },
+  {
+    "group": "W",
+    "title": "Prediction",
+    "definition": "Prediksi memperkirakan kelanjutan yang paling masuk akal dari petunjuk dan pola alur. Ini menguji pemahaman konsekuensi.",
+    "stem": "What is most likely to happen next?",
+    "steps": [
+      "Baca keadaan terakhir yang diberikan.",
+      "Cari niat tokoh atau pola sebab-akibat.",
+      "Bayangkan kelanjutan yang membutuhkan asumsi paling sedikit.",
+      "Gunakan konteks pertanyaan, termasuk kondisi if."
+    ],
+    "trap": "Jangan memakai akhir cerita asli jika pertanyaan mengubah kondisi awal.",
+    "tip": "Prediksi bersifat paling mungkin, bukan pasti.",
+    "micro": "The battery warning flashed. Dini reached for her charger.\nWhat will she probably do next?\nA. Replace the screen.\nB. Charge the device.",
+    "answer": "B",
+    "evidence": "Reached for her charger memberi petunjuk tindakan berikutnya. Screen tidak disebut.",
+    "source": "Wajib hlm. 3, 11"
+  },
+  {
+    "group": "W",
+    "title": "Vocabulary in Context",
+    "definition": "Makna kata atau frasa ditentukan oleh konteks. Ini menguji pemahaman makna yang dipakai penulis, termasuk makna kiasan.",
+    "stem": "The word \"brief\" is closest in meaning to ...",
+    "steps": [
+      "Tentukan fungsi kata dalam kalimat.",
+      "Baca petunjuk definisi, kontras, dan contoh.",
+      "Coba ganti kata dengan setiap opsi.",
+      "Periksa apakah makna dan tata bahasanya tetap tepat."
+    ],
+    "trap": "Arti kamus pertama bisa salah untuk konteks ini.",
+    "tip": "Ganti lalu baca ulang seluruh kalimat.",
+    "micro": "The meeting was brief. It lasted only five minutes.\nBrief means ...\nA. short.\nB. noisy.",
+    "answer": "A",
+    "evidence": "Only five minutes mendukung short. Durasi tidak membuktikan noisy.",
+    "source": "Wajib hlm. 13"
+  },
+  {
+    "group": "W",
+    "title": "Text Structure",
+    "definition": "Struktur teks adalah susunan fungsi bagian, misalnya pengenalan, masalah, dan penyelesaian. Diuji agar pembaca memahami organisasi.",
+    "stem": "How is the text organized?",
+    "steps": [
+      "Beri label fungsi tiap paragraf.",
+      "Cari penghubung urutan, alasan, atau pertentangan.",
+      "Buat kerangka pendek.",
+      "Pilih struktur yang cocok dari awal sampai akhir."
+    ],
+    "trap": "Judul paragraf bukan selalu fungsi paragraf.",
+    "tip": "Baca fungsi, bukan hanya kata kunci.",
+    "micro": "A text states a view, gives two reasons, then restates the view.\nWhich structure fits?\nA. Orientation, complication, resolution.\nB. Thesis, arguments, reiteration.",
+    "answer": "B",
+    "evidence": "View, reasons, restated view cocok analytical exposition. Tidak ada konflik cerita.",
+    "source": "Wajib hlm. 1, 15"
+  },
+  {
+    "group": "W",
+    "title": "Categorization",
+    "definition": "Kategorisasi menempatkan informasi ke kelompok sesuai kriteria. Diuji untuk mengorganisasi detail secara konsisten.",
+    "stem": "Classify each activity as time management or self-management.",
+    "steps": [
+      "Baca definisi kedua kategori.",
+      "Tandai ciri pembeda.",
+      "Uji tiap pernyataan secara mandiri.",
+      "Pastikan kategori mengikuti konteks, bukan kebiasaan pribadi."
+    ],
+    "trap": "Menganggap jumlah jawaban tiap kategori harus seimbang.",
+    "tip": "Gunakan satu aturan yang sama untuk semua baris.",
+    "micro": "A timetable organizes hours. Patience helps you continue after mistakes.\nWhich is time management?\nA. Making a timetable.\nB. Being patient.",
+    "answer": "A",
+    "evidence": "Organizes hours adalah kriteria waktu. Patience mengatur ketekunan diri.",
+    "source": "Wajib hlm. 5, 15"
+  },
+  {
+    "group": "W",
+    "title": "Fact vs Opinion",
+    "definition": "Fakta merupakan klaim yang bisa diperiksa. Opini memuat penilaian atau rekomendasi. Diuji agar dukungan data dibedakan dari sikap.",
+    "stem": "Which statement is supported by the data?",
+    "steps": [
+      "Pisahkan deskripsi terukur dan penilaian.",
+      "Cari sumber atau data dalam teks.",
+      "Periksa apakah klaim benar-benar didukung.",
+      "Tolak kata mutlak yang tidak terbukti."
+    ],
+    "trap": "Angka tanpa sumber tidak otomatis kredibel. Kata should biasanya menandai saran.",
+    "tip": "Dapat diverifikasi berbeda dari sudah terverifikasi.",
+    "micro": "The report lists 20 visitors. The writer calls the event wonderful.\nWhich is an opinion?\nA. There were 20 visitors.\nB. The event was wonderful.",
+    "answer": "B",
+    "evidence": "Wonderful adalah penilaian. 20 visitors adalah klaim jumlah dalam laporan.",
+    "source": "Wajib hlm. 17"
+  },
+  {
+    "group": "W",
+    "title": "Data Interpretation",
+    "definition": "Interpretasi data membaca nilai, label, satuan, dan hubungan pada tabel atau infografik. Diuji untuk membuat simpulan yang proporsional.",
+    "stem": "Which conclusion is supported by the table?",
+    "steps": [
+      "Baca judul, populasi, dan satuan.",
+      "Temukan baris atau kolom sasaran.",
+      "Hitung selisih atau perbandingan seperlunya.",
+      "Batasi simpulan pada data yang tersedia."
+    ],
+    "trap": "Kategori bisa tumpang tindih. Persentase tidak selalu harus berjumlah 100.",
+    "tip": "Selisih dua persentase disebut poin persentase.",
+    "micro": "Club survey: coding 40%, chess 25%. Students may choose both.\nWhat is the difference?\nA. 15 percentage points.\nB. 65 percentage points.",
+    "answer": "A",
+    "evidence": "40 dikurangi 25 = 15 poin persentase. Penjumlahan 65 tidak menjawab selisih.",
+    "source": "Wajib hlm. 4, 15"
+  },
+  {
+    "group": "W",
+    "title": "Evaluation",
+    "definition": "Evaluasi menilai kesesuaian gagasan, bukti, atau penerapan dengan kriteria yang jelas. Diuji agar respons pembaca dapat dipertanggungjawabkan.",
+    "stem": "Which action best applies the advice in the text?",
+    "steps": [
+      "Tentukan kriteria penilaian.",
+      "Cari saran atau bukti yang relevan.",
+      "Bandingkan pilihan dengan kebutuhan situasi.",
+      "Pilih tindakan yang paling sesuai tanpa tambahan asumsi."
+    ],
+    "trap": "Jawaban bisa terdengar positif tetapi tidak menerapkan isi teks.",
+    "tip": "Sebutkan kriteria sebelum menilai.",
+    "micro": "The guide advises a quiet study area.\nWhich action follows the advice?\nA. Studying beside loud speakers.\nB. Moving to a quiet room.",
+    "answer": "B",
+    "evidence": "Quiet room menerapkan kriteria quiet study area. Loud speakers menyalahi saran.",
+    "source": "Wajib hlm. 7, 14"
+  },
+  {
+    "group": "L",
+    "title": "Main Idea & Supporting Details",
+    "definition": "Gagasan utama tingkat lanjut merangkum posisi dan batasannya. Detail pendukung menjelaskan mengapa posisi itu layak diterima.",
+    "stem": "Which statement best summarizes the argument?",
+    "steps": [
+      "Identifikasi isu dan posisi penulis.",
+      "Beri label alasan tiap paragraf.",
+      "Pertahankan kata pembatas seperti may dan if.",
+      "Pilih ringkasan yang mencakup posisi dan batasannya."
+    ],
+    "trap": "Detail manfaat saja tidak mewakili bacaan yang juga membahas kendala.",
+    "tip": "Ringkasan seimbang mengikuti bobot teks.",
+    "micro": "EVs reduce exhaust emissions, but battery production still has costs.\nWhich summary fits?\nA. EVs offer benefits with environmental trade-offs.\nB. EVs have no environmental impact.",
+    "answer": "A",
+    "evidence": "But menyatukan manfaat dan biaya. No impact menghapus batasan.",
+    "source": "Pilihan hlm. 11-12, 22"
+  },
+  {
+    "group": "L",
+    "title": "Explicit & Implicit Information",
+    "definition": "Informasi eksplisit dinyatakan langsung. Informasi implisit memerlukan penalaran. Pembedaan ini mencegah simpulan dianggap kutipan.",
+    "stem": "Which statement is explicitly stated in the text?",
+    "steps": [
+      "Tentukan apakah stem meminta stated atau implied.",
+      "Cari kalimat bukti langsung.",
+      "Untuk implisit, hubungkan beberapa petunjuk.",
+      "Labeli hasil sebagai pernyataan atau simpulan."
+    ],
+    "trap": "Parafrasa tetap bisa eksplisit. Kata yang berbeda bukan berarti tersirat.",
+    "tip": "Stated = langsung. Implied = disimpulkan.",
+    "micro": "The farm uses electric lamps all night. The owner is worried about the bill.\nWhat is implied?\nA. The farm uses no electricity.\nB. Electricity costs concern the owner.",
+    "answer": "B",
+    "evidence": "Lamps dan worried about the bill mendukung kekhawatiran biaya. A bertentangan.",
+    "source": "Pilihan hlm. 1-2, 21"
+  },
+  {
+    "group": "L",
+    "title": "Inference & Prediction",
+    "definition": "Inferensi menjelaskan implikasi argumen. Prediksi memperkirakan akibat apabila kondisi tertentu berlaku. Diuji untuk menalar secara bersyarat.",
+    "stem": "What would most likely happen if the policy continued?",
+    "steps": [
+      "Identifikasi kondisi yang berubah.",
+      "Tentukan mekanisme yang dijelaskan.",
+      "Ikuti akibat langsung sebelum akibat lanjutan.",
+      "Pertahankan modalitas dan batas cakupan."
+    ],
+    "trap": "May berubah menjadi will always pada pengecoh.",
+    "tip": "Jika syarat berubah, hitung ulang kesimpulannya.",
+    "micro": "A farm relies on costly lamps. Electricity prices are expected to rise.\nWhat is likely without other changes?\nA. Higher operating costs.\nB. Free production.",
+    "answer": "A",
+    "evidence": "Biaya lampu bergantung harga listrik. Tidak ada subsidi yang membuat produksi gratis.",
+    "source": "Pilihan hlm. 9, 30"
+  },
+  {
+    "group": "L",
+    "title": "Author's Purpose & Intention",
+    "definition": "Tujuan tingkat lanjut mencakup sikap, pembaca sasaran, dan alasan menyajikan sudut pandang tertentu. Ini menguji fungsi retoris.",
+    "stem": "Why does the writer present both advantages and drawbacks?",
+    "steps": [
+      "Petakan posisi setiap bagian.",
+      "Tentukan sikap akhir penulis.",
+      "Bedakan tujuan utama dari efek samping.",
+      "Pilih maksud yang sesuai pola seluruh argumen."
+    ],
+    "trap": "Mentioning benefits tidak otomatis berarti iklan atau dukungan tanpa syarat.",
+    "tip": "Tujuan utama tercermin pada struktur dan kesimpulan.",
+    "micro": "The article compares gains and risks, then recommends cautious trials.\nWhy present both sides?\nA. To sell a product unconditionally.\nB. To support a balanced decision.",
+    "answer": "B",
+    "evidence": "Gains, risks, cautious trials membentuk pertimbangan seimbang.",
+    "source": "Pilihan hlm. 6, 13-14, 24"
+  },
+  {
+    "group": "L",
+    "title": "Argument Analysis",
+    "definition": "Argumen menghubungkan klaim dengan alasan dan bukti melalui asumsi tertentu. Diuji agar pembaca dapat melihat logika dukungan.",
+    "stem": "Which statement best supports the claim?",
+    "steps": [
+      "Tulis klaim utama.",
+      "Pisahkan alasan dan bukti.",
+      "Cari asumsi penghubung.",
+      "Uji apakah alasan benar-benar mendukung klaim."
+    ],
+    "trap": "Mengulang klaim dengan sinonim bukan tambahan bukti.",
+    "tip": "Klaim menjawab apa. Alasan menjawab mengapa.",
+    "micro": "We should repair devices because this reduces waste.\nWhich is the reason?\nA. Repairing reduces waste.\nB. We should repair devices.",
+    "answer": "A",
+    "evidence": "Because memperkenalkan alasan. B adalah klaim rekomendasi.",
+    "source": "Pilihan hlm. 2-3, 25"
+  },
+  {
+    "group": "L",
+    "title": "Evidence Evaluation",
+    "definition": "Kualitas bukti bergantung pada relevansi, keterlacakan, metode, dan kecukupan. Diuji agar data yang tampak ilmiah tetap diperiksa.",
+    "stem": "Which evidence would most strengthen the argument?",
+    "steps": [
+      "Tentukan klaim yang perlu bukti.",
+      "Pilih data yang langsung menguji klaim.",
+      "Periksa sampel, waktu, metode, dan pembanding.",
+      "Sesuaikan kekuatan kesimpulan dengan batas bukti."
+    ],
+    "trap": "Menyebut research tanpa metode tidak menjamin bukti kuat.",
+    "tip": "Relevan, terlacak, cukup, sesuai metode.",
+    "micro": "A claim concerns energy savings.\nWhich evidence helps most?\nA. A celebrity endorsement.\nB. Meter readings before and after, with comparable usage.",
+    "answer": "B",
+    "evidence": "Meter readings mengukur energi dan pembanding membantu interpretasi. Popularitas tidak mengukur penghematan.",
+    "source": "Pilihan hlm. 5, 12, 23"
+  },
+  {
+    "group": "L",
+    "title": "Fact vs Opinion",
+    "definition": "Pada argumen kompleks, klaim empiris dan penilaian dapat berada dalam satu kalimat. Diuji untuk menilai dukungan masing-masing bagian.",
+    "stem": "Which fact best supports the writer's opinion?",
+    "steps": [
+      "Pisahkan klaim terukur dan evaluasi.",
+      "Cek sumber dan konteks angka.",
+      "Cocokkan fakta dengan opini sasaran.",
+      "Bedakan bukti pendukung dari bukti yang memastikan."
+    ],
+    "trap": "Data mendukung opini tertentu tanpa membuktikan semua rekomendasi penulis.",
+    "tip": "Satu bukti harus menjawab satu klaim sasaran.",
+    "micro": "The audit measured 12 kg of waste. The editor calls that unacceptable.\nWhich part is a judgment?\nA. Unacceptable.\nB. 12 kg of waste.",
+    "answer": "A",
+    "evidence": "Unacceptable memakai standar nilai. 12 kg adalah hasil pengukuran yang dilaporkan.",
+    "source": "Pilihan hlm. 7, 31"
+  },
+  {
+    "group": "L",
+    "title": "Claim & Credibility",
+    "definition": "Klaim menyatakan sesuatu. Kredibilitas menilai alasan mempercayai sumbernya, termasuk keahlian, metode, dan kepentingan. Diuji untuk membaca kritis.",
+    "stem": "Which feature makes the claim more credible?",
+    "steps": [
+      "Identifikasi penulis dan bidang keahliannya.",
+      "Cari data asli, tanggal, dan metode.",
+      "Periksa sponsor atau konflik kepentingan.",
+      "Bandingkan dengan sumber independen yang relevan."
+    ],
+    "trap": "Sumber populer atau banyak pengikut tidak otomatis ahli. Ketiadaan bukti bukan bukti klaim pasti salah.",
+    "tip": "Periksa siapa, bukti apa, dan kepentingan apa.",
+    "micro": "A repair shop publishes a battery claim without tests and sells that battery.\nWhat should readers check?\nA. The number of likes only.\nB. Independent tests and the seller's interest.",
+    "answer": "B",
+    "evidence": "Penjual memiliki kepentingan dan tidak memberi tes. Likes tidak memverifikasi klaim.",
+    "source": "Pilihan hlm. 5, 16-20"
+  },
+  {
+    "group": "L",
+    "title": "Cause and Effect",
+    "definition": "Hubungan kausal menjelaskan mekanisme penyebab dan akibat. Diuji untuk membedakannya dari kebetulan atau korelasi.",
+    "stem": "What is the likely consequence of the change?",
+    "steps": [
+      "Tentukan peristiwa penyebab.",
+      "Temukan mekanisme yang dinyatakan.",
+      "Ikuti akibat yang didukung.",
+      "Periksa apakah faktor lain bisa menjelaskan hubungan."
+    ],
+    "trap": "Dua hal berubah bersamaan belum membuktikan sebab-akibat.",
+    "tip": "Cari mekanisme, bukan hanya urutan waktu.",
+    "micro": "A blocked filter restricts airflow, so the machine overheats.\nWhat causes reduced airflow?\nA. A blocked filter.\nB. A hotter room mentioned nowhere.",
+    "answer": "A",
+    "evidence": "Restricts airflow menyatakan mekanisme langsung. B menambah fakta baru.",
+    "source": "Pilihan hlm. 15, 25"
+  },
+  {
+    "group": "L",
+    "title": "Text Organization",
+    "definition": "Organisasi argumen menunjukkan hubungan isu, posisi, bukti, sanggahan, dan kesimpulan. Diuji untuk membangun kerangka yang utuh.",
+    "stem": "Which flowchart best reflects the organization?",
+    "steps": [
+      "Labeli fungsi setiap paragraf.",
+      "Tandai peralihan however dan therefore.",
+      "Susun fungsi sesuai urutan asli.",
+      "Tolak diagram yang menambah atau menghilangkan bagian."
+    ],
+    "trap": "Diagram berisi istilah relevan tetapi urutan logikanya salah.",
+    "tip": "Satu kotak diagram mewakili fungsi, bukan setiap kalimat.",
+    "micro": "An article introduces an issue, compares views, and gives a qualified conclusion.\nWhich genre fits?\nA. A recipe.\nB. A discussion.",
+    "answer": "B",
+    "evidence": "Comparing views adalah ciri pembahasan dua sisi. Tidak ada langkah memasak.",
+    "source": "Pilihan hlm. 28-29"
+  },
+  {
+    "group": "L",
+    "title": "Critical Reading",
+    "definition": "Membaca kritis menguji asumsi, generalisasi, dan kekuatan simpulan. Ini membantu menilai argumen secara adil tanpa sekadar setuju atau menolak.",
+    "stem": "What is the main weakness of the argument?",
+    "steps": [
+      "Tulis klaim dan bukti secara terpisah.",
+      "Cari langkah logika yang hilang.",
+      "Uji penjelasan alternatif.",
+      "Pilih kritik yang spesifik pada bukti teks."
+    ],
+    "trap": "Ketidaksetujuan pribadi belum menunjukkan kesalahan argumen.",
+    "tip": "Kritik harus menyebut cacat dan dampaknya.",
+    "micro": "Two friends liked an app, so the writer says every student will benefit.\nWhat is the weakness?\nA. Generalizing from too few people.\nB. Using any evidence at all.",
+    "answer": "A",
+    "evidence": "Two friends terlalu terbatas untuk every student. Bukti sendiri bukan kelemahan.",
+    "source": "Pilihan hlm. 5, 15, 40"
+  },
+  {
+    "group": "L",
+    "title": "Perspective & Bias",
+    "definition": "Perspektif adalah sudut pandang. Bias tampak ketika seleksi bukti atau bahasa berat sebelah. Diuji agar pembaca melihat suara yang terwakili dan hilang.",
+    "stem": "Which perspective is missing from the text?",
+    "steps": [
+      "Identifikasi penulis dan kepentingannya.",
+      "Catat pihak yang dikutip.",
+      "Periksa kata emosional dan bukti yang diabaikan.",
+      "Tentukan perspektif relevan yang belum dibahas."
+    ],
+    "trap": "Nada positif saja tidak cukup membuktikan semua informasi palsu.",
+    "tip": "Cari pihak yang terdampak tetapi tidak diberi suara.",
+    "micro": "A company article praises a new policy but quotes only managers.\nWhose perspective is missing?\nA. More managers.\nB. Employees affected by the policy.",
+    "answer": "B",
+    "evidence": "Only managers menunjukkan pekerja terdampak belum terwakili.",
+    "source": "Pilihan hlm. 4, 35"
+  },
+  {
+    "group": "L",
+    "title": "Classification",
+    "definition": "Klasifikasi tingkat lanjut membedakan fungsi argumen atau kategori konseptual yang mirip. Diuji untuk menjaga konsistensi kriteria.",
+    "stem": "Classify each statement as a claim or supporting evidence.",
+    "steps": [
+      "Definisikan kategori secara operasional.",
+      "Pecah pernyataan campuran bila perlu.",
+      "Tentukan fungsi dominan sesuai pertanyaan.",
+      "Uji semua baris dengan aturan yang sama."
+    ],
+    "trap": "Satu kalimat dapat berfungsi berbeda dalam konteks lain. Ikuti kriteria soal.",
+    "tip": "Baca kategori sebelum membaca semua pernyataan.",
+    "micro": "Claim: Repairing saves money. Record: The club spent Rp200,000 less.\nWhich is evidence?\nA. The spending record.\nB. The unsupported claim alone.",
+    "answer": "A",
+    "evidence": "Catatan biaya mendukung klaim. Pengulangan klaim tidak menambah bukti.",
+    "source": "Pilihan hlm. 7, 10, 25"
+  },
+  {
+    "group": "L",
+    "title": "Data & Diagram Interpretation",
+    "definition": "Interpretasi multimodal menggabungkan angka, kategori, dan alur argumen. Diuji untuk menyintesis sumber tanpa melampaui data.",
+    "stem": "Which conclusion is supported by the diagram and text?",
+    "steps": [
+      "Baca legenda, satuan, sumber, dan arah alur.",
+      "Hubungkan setiap elemen dengan klaim teks.",
+      "Hitung hanya perbandingan yang dibutuhkan.",
+      "Nyatakan keterbatasan sampel atau penyebab."
+    ],
+    "trap": "Grafik korelasi tidak otomatis menunjukkan sebab-akibat. Panah diagram tidak selalu menunjukkan waktu.",
+    "tip": "Angka harus dibaca bersama konteks dan metode.",
+    "micro": "Pilot: old system 50 kWh, new system 40 kWh, same task.\nWhat reduction is shown?\nA. 25%.\nB. 20%.",
+    "answer": "B",
+    "evidence": "(50-40)/50 x 100 = 20%. Pembagi adalah nilai awal, bukan nilai baru.",
+    "source": "Pilihan hlm. 28-29"
+  }
+]

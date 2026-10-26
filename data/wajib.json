@@ -1,0 +1,941 @@
+[
+  {
+    "id": "q1",
+    "group": "W",
+    "topic": "Main Idea & Topic",
+    "passage": "The reading club meets every Friday. Members exchange books and discuss new ideas. They say the club helps them discover stories they would not read alone.",
+    "question": "What is the main idea?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Friday is the longest school day."
+      },
+      {
+        "id": "o1",
+        "text": "The club helps members explore books together."
+      },
+      {
+        "id": "o2",
+        "text": "Every member buys a book each week."
+      },
+      {
+        "id": "o3",
+        "text": "The club only reads one story."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "reasons": [
+      "Jadwal saja tidak merangkum isi.",
+      "Exchange books, discuss ideas, dan discover stories mendukung manfaat bersama.",
+      "Buy tidak disebut.",
+      "Only one bertentangan dengan new ideas dan stories."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Menengah",
+    "evidence": "The reading club meets every Friday. Members exchange books and discuss new ideas. They say the club helps them discover stories they would not read alone."
+  },
+  {
+    "id": "q2",
+    "group": "W",
+    "topic": "Specific Information",
+    "passage": "Students must return borrowed tablets by Thursday at 2 p.m. The office opens at 8 a.m. on school days.",
+    "question": "When must the tablets be returned?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Thursday at 8 a.m."
+      },
+      {
+        "id": "o1",
+        "text": "Friday at 2 p.m."
+      },
+      {
+        "id": "o2",
+        "text": "Thursday by 2 p.m."
+      },
+      {
+        "id": "o3",
+        "text": "Any school day at 8 a.m."
+      }
+    ],
+    "key": [
+      "o2"
+    ],
+    "reasons": [
+      "8 a.m. adalah waktu buka.",
+      "Friday tidak disebut sebagai tenggat.",
+      "Return ... by Thursday at 2 p.m. menyatakan tenggat langsung.",
+      "Any school day menghapus tenggat Thursday."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Menengah",
+    "evidence": "Students must return borrowed tablets by Thursday at 2 p.m. The office opens at 8 a.m. on school days."
+  },
+  {
+    "id": "q3",
+    "group": "W",
+    "topic": "Inference",
+    "passage": "Bima looked at the broken bicycle chain. He put down his helmet and checked the bus timetable.",
+    "question": "What can be inferred?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "He may take the bus instead of cycling."
+      },
+      {
+        "id": "o1",
+        "text": "He has already repaired the bicycle."
+      },
+      {
+        "id": "o2",
+        "text": "He dislikes all sports."
+      },
+      {
+        "id": "o3",
+        "text": "He will buy a car today."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "reasons": [
+      "Broken chain dan checked the bus timetable mendukung alternatif bus.",
+      "Tidak ada tindakan perbaikan.",
+      "Satu kejadian tidak menunjukkan semua minat.",
+      "Membeli mobil tidak didukung."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Menengah",
+    "evidence": "Bima looked at the broken bicycle chain. He put down his helmet and checked the bus timetable."
+  },
+  {
+    "id": "q4",
+    "group": "W",
+    "topic": "Author's Purpose",
+    "passage": "To create a strong password, use a long combination of words. Avoid personal information. Never share the password with friends.",
+    "question": "What is the main purpose?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "To describe a friend."
+      },
+      {
+        "id": "o1",
+        "text": "To advertise a laptop."
+      },
+      {
+        "id": "o2",
+        "text": "To tell a funny story."
+      },
+      {
+        "id": "o3",
+        "text": "To give password-safety instructions."
+      }
+    ],
+    "key": [
+      "o3"
+    ],
+    "reasons": [
+      "Tidak ada deskripsi tokoh.",
+      "Tidak ada produk yang ditawarkan.",
+      "Tidak ada konflik atau humor cerita.",
+      "Use, avoid, never share memberi instruksi keamanan."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Menengah",
+    "evidence": "To create a strong password, use a long combination of words. Avoid personal information. Never share the password with friends."
+  },
+  {
+    "id": "q5",
+    "group": "W",
+    "topic": "Moral Value",
+    "passage": "A large bird laughed at a small ant. Later, a hunter approached the bird. The ant bit the hunter, and the bird escaped. The bird thanked the ant.",
+    "question": "Which lesson fits best?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Strong animals never need help."
+      },
+      {
+        "id": "o1",
+        "text": "Small creatures can make an important difference."
+      },
+      {
+        "id": "o2",
+        "text": "Laughing always protects us."
+      },
+      {
+        "id": "o3",
+        "text": "Hunters are always careless."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "reasons": [
+      "Bird justru menerima bantuan.",
+      "Ant membantu burung lolos sehingga ukuran tidak menentukan manfaat.",
+      "Laughing tidak menyebabkan keselamatan.",
+      "Generalisasi semua hunters tidak didukung."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Menengah",
+    "evidence": "A large bird laughed at a small ant. Later, a hunter approached the bird. The ant bit the hunter, and the bird escaped. The bird thanked the ant."
+  },
+  {
+    "id": "q6",
+    "group": "W",
+    "topic": "Character Analysis",
+    "passage": "Nadia found an error in the group report. Although no one had noticed it, she told the team and corrected it before submission.",
+    "question": "Which traits are supported? Select all that apply.",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Honest"
+      },
+      {
+        "id": "o1",
+        "text": "Responsible"
+      },
+      {
+        "id": "o2",
+        "text": "Careless"
+      },
+      {
+        "id": "o3",
+        "text": "Unwilling to help"
+      }
+    ],
+    "key": [
+      "o0",
+      "o1"
+    ],
+    "reasons": [
+      "Told the team menunjukkan keterbukaan.",
+      "Corrected it before submission menunjukkan tanggung jawab.",
+      "Ia justru menemukan dan memperbaiki error.",
+      "Ia membantu tim."
+    ],
+    "mode": "multi",
+    "table": null,
+    "difficulty": "Menengah",
+    "evidence": "Nadia found an error in the group report. Although no one had noticed it, she told the team and corrected it before submission."
+  },
+  {
+    "id": "q7",
+    "group": "W",
+    "topic": "Sequence of Events",
+    "passage": "First, connect the sensor. Next, open the program. After the reading appears, save the result. Finally, disconnect the sensor.",
+    "question": "Which action happens immediately before saving?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Disconnecting the sensor."
+      },
+      {
+        "id": "o1",
+        "text": "Connecting a second sensor."
+      },
+      {
+        "id": "o2",
+        "text": "Waiting for the reading to appear."
+      },
+      {
+        "id": "o3",
+        "text": "Closing the program."
+      }
+    ],
+    "key": [
+      "o2"
+    ],
+    "reasons": [
+      "Disconnect dilakukan terakhir.",
+      "Second sensor tidak disebut.",
+      "After the reading appears, save menetapkan urutan.",
+      "Closing tidak ada dalam instruksi."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Menengah",
+    "evidence": "First, connect the sensor. Next, open the program. After the reading appears, save the result. Finally, disconnect the sensor."
+  },
+  {
+    "id": "q8",
+    "group": "W",
+    "topic": "Prediction",
+    "passage": "The library closes in ten minutes. Ayu has chosen a book and is walking towards the borrowing desk.",
+    "question": "What will Ayu most likely do next?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Borrow the book before the library closes."
+      },
+      {
+        "id": "o1",
+        "text": "Start repairing the shelves."
+      },
+      {
+        "id": "o2",
+        "text": "Wait until the library closes to choose a book."
+      },
+      {
+        "id": "o3",
+        "text": "Open a new library."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "reasons": [
+      "Chosen a book dan walking towards desk mendukung peminjaman segera.",
+      "Tidak ada petunjuk perbaikan.",
+      "Ia sudah memilih buku.",
+      "Tidak berkaitan dengan tindakan saat ini."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Menengah",
+    "evidence": "The library closes in ten minutes. Ayu has chosen a book and is walking towards the borrowing desk."
+  },
+  {
+    "id": "q9",
+    "group": "W",
+    "topic": "Vocabulary in Context",
+    "passage": "The instructions were concise. They explained the task in just three short sentences without unnecessary detail.",
+    "question": "Concise is closest in meaning to ...",
+    "options": [
+      {
+        "id": "o0",
+        "text": "confusing."
+      },
+      {
+        "id": "o1",
+        "text": "unfinished."
+      },
+      {
+        "id": "o2",
+        "text": "inaccurate."
+      },
+      {
+        "id": "o3",
+        "text": "brief and clear."
+      }
+    ],
+    "key": [
+      "o3"
+    ],
+    "reasons": [
+      "Explained the task tidak menunjukkan kebingungan.",
+      "Tidak ada bagian hilang.",
+      "Ketepatan tidak dipersoalkan.",
+      "Three short sentences without unnecessary detail mendukung brief and clear."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Menengah",
+    "evidence": "The instructions were concise. They explained the task in just three short sentences without unnecessary detail."
+  },
+  {
+    "id": "q10",
+    "group": "W",
+    "topic": "Text Structure",
+    "passage": "A paragraph states that walking to school is useful. Two paragraphs explain health and environmental benefits. The final paragraph repeats the recommendation.",
+    "question": "How is the text organized?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Problem, failed experiment, results."
+      },
+      {
+        "id": "o1",
+        "text": "Position, supporting reasons, restatement."
+      },
+      {
+        "id": "o2",
+        "text": "Characters, conflict, surprise ending."
+      },
+      {
+        "id": "o3",
+        "text": "Ingredients, steps, serving advice."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "reasons": [
+      "Tidak ada eksperimen.",
+      "States, explains benefits, repeats menunjukkan susunan argumen.",
+      "Tidak ada tokoh atau konflik naratif.",
+      "Tidak ada resep."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Menengah",
+    "evidence": "A paragraph states that walking to school is useful. Two paragraphs explain health and environmental benefits. The final paragraph repeats the recommendation."
+  },
+  {
+    "id": "q11",
+    "group": "W",
+    "topic": "Categorization",
+    "passage": "Time management organizes when tasks happen. Self-management concerns personal persistence and focus.",
+    "question": "Classify each statement as Time management or Self-management.",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Creating a weekly timetable."
+      },
+      {
+        "id": "o1",
+        "text": "Continuing after making a mistake."
+      },
+      {
+        "id": "o2",
+        "text": "Setting a 25-minute study timer."
+      }
+    ],
+    "key": [
+      0,
+      1,
+      0
+    ],
+    "reasons": [
+      "Timetable mengatur kapan belajar.",
+      "Continuing after mistakes adalah ketekunan diri.",
+      "Timer membatasi waktu belajar."
+    ],
+    "mode": "category",
+    "table": null,
+    "difficulty": "Menengah",
+    "evidence": "Time management organizes when tasks happen. Self-management concerns personal persistence and focus.",
+    "categories": [
+      "Time management",
+      "Self-management"
+    ]
+  },
+  {
+    "id": "q12",
+    "group": "W",
+    "topic": "Fact vs Opinion",
+    "passage": "The club report records 32 participants. Its leader writes, \"This was our most exciting meeting.\"",
+    "question": "Which statement is an opinion?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "The report records participation."
+      },
+      {
+        "id": "o1",
+        "text": "There were 32 participants."
+      },
+      {
+        "id": "o2",
+        "text": "The meeting was the most exciting."
+      },
+      {
+        "id": "o3",
+        "text": "The leader wrote a comment."
+      }
+    ],
+    "key": [
+      "o2"
+    ],
+    "reasons": [
+      "Keberadaan laporan bisa diperiksa.",
+      "Jumlah dapat diverifikasi pada catatan.",
+      "Most exciting adalah penilaian subjektif.",
+      "Keberadaan komentar bisa diperiksa."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Menengah",
+    "evidence": "The club report records 32 participants. Its leader writes, \"This was our most exciting meeting.\""
+  },
+  {
+    "id": "q13",
+    "group": "W",
+    "topic": "Data Interpretation",
+    "passage": "A class survey allowed students to select more than one study habit.",
+    "question": "What is the difference between the two percentages?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "20 percentage points."
+      },
+      {
+        "id": "o1",
+        "text": "100 percentage points."
+      },
+      {
+        "id": "o2",
+        "text": "20 students."
+      },
+      {
+        "id": "o3",
+        "text": "60 percent of the class."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "reasons": [
+      "60 - 40 = 20 poin persentase.",
+      "Menjumlahkan tidak menjawab selisih.",
+      "Ukuran kelas tidak diberikan.",
+      "60 adalah nilai satu kategori."
+    ],
+    "mode": "single",
+    "table": [
+      [
+        "Habit",
+        "Students"
+      ],
+      [
+        "Practice questions",
+        "60%"
+      ],
+      [
+        "Review notes",
+        "40%"
+      ]
+    ],
+    "difficulty": "Menengah",
+    "evidence": "A class survey allowed students to select more than one study habit."
+  },
+  {
+    "id": "q14",
+    "group": "W",
+    "topic": "Evaluation",
+    "passage": "The guide recommends checking cable connections before changing network settings. Roni cannot access the school network.",
+    "question": "Which action best applies the guide?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Delete every file."
+      },
+      {
+        "id": "o1",
+        "text": "Replace the computer immediately."
+      },
+      {
+        "id": "o2",
+        "text": "Change all settings first."
+      },
+      {
+        "id": "o3",
+        "text": "Check whether the network cable is connected."
+      }
+    ],
+    "key": [
+      "o3"
+    ],
+    "reasons": [
+      "Tidak sesuai rekomendasi.",
+      "Langkah terlalu jauh tanpa cek awal.",
+      "Membalik urutan saran.",
+      "Checking cable connections menerapkan tindakan awal."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Menengah",
+    "evidence": "The guide recommends checking cable connections before changing network settings. Roni cannot access the school network."
+  },
+  {
+    "id": "topic0",
+    "group": "W",
+    "topic": "Main Idea & Topic",
+    "passage": "The school garden provides vegetables for lunch. Students also learn how plants grow there.",
+    "question": "What is the main idea?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "The garden supports food and learning."
+      },
+      {
+        "id": "o1",
+        "text": "Students eat lunch at home."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "Dua manfaat: vegetables for lunch dan learn how plants grow. B bertentangan dengan konteks.",
+      "Dua manfaat: vegetables for lunch dan learn how plants grow. B bertentangan dengan konteks."
+    ],
+    "evidence": "The school garden provides vegetables for lunch. Students also learn how plants grow there.",
+    "table": null
+  },
+  {
+    "id": "topic1",
+    "group": "W",
+    "topic": "Specific Information",
+    "passage": "The lab opens at seven and closes at three.",
+    "question": "When does it close?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "At seven."
+      },
+      {
+        "id": "o1",
+        "text": "At three."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "closes at three menjawab close. Seven adalah waktu buka.",
+      "closes at three menjawab close. Seven adalah waktu buka."
+    ],
+    "evidence": "The lab opens at seven and closes at three.",
+    "table": null
+  },
+  {
+    "id": "topic2",
+    "group": "W",
+    "topic": "Inference",
+    "passage": "Mira brought an umbrella. Dark clouds covered the sky.",
+    "question": "What did Mira probably expect?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Rain."
+      },
+      {
+        "id": "o1",
+        "text": "A power cut."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "Umbrella dan dark clouds mendukung kemungkinan hujan. Tidak ada petunjuk listrik padam.",
+      "Umbrella dan dark clouds mendukung kemungkinan hujan. Tidak ada petunjuk listrik padam."
+    ],
+    "evidence": "Mira brought an umbrella. Dark clouds covered the sky.",
+    "table": null
+  },
+  {
+    "id": "topic3",
+    "group": "W",
+    "topic": "Author's Purpose",
+    "passage": "First, switch off the computer. Then unplug the cable.",
+    "question": "What is the purpose?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "To entertain readers."
+      },
+      {
+        "id": "o1",
+        "text": "To give instructions."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "First dan Then mengatur tindakan. Tidak ada alur cerita untuk menghibur.",
+      "First dan Then mengatur tindakan. Tidak ada alur cerita untuk menghibur."
+    ],
+    "evidence": "First, switch off the computer. Then unplug the cable.",
+    "table": null
+  },
+  {
+    "id": "topic4",
+    "group": "W",
+    "topic": "Moral Value",
+    "passage": "A proud runner ignored practice and lost to a careful beginner.",
+    "question": "Which lesson fits?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Preparation matters."
+      },
+      {
+        "id": "o1",
+        "text": "Beginners always win."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "Ignored practice berkaitan dengan lost. Always pada B melebihi satu peristiwa.",
+      "Ignored practice berkaitan dengan lost. Always pada B melebihi satu peristiwa."
+    ],
+    "evidence": "A proud runner ignored practice and lost to a careful beginner.",
+    "table": null
+  },
+  {
+    "id": "topic5",
+    "group": "W",
+    "topic": "Character Analysis",
+    "passage": "Rafi checked every cable before leaving the lab.",
+    "question": "Which trait fits?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Careless."
+      },
+      {
+        "id": "o1",
+        "text": "Responsible."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "Checked every cable memperlihatkan kehati-hatian. Careless bertentangan dengan tindakan.",
+      "Checked every cable memperlihatkan kehati-hatian. Careless bertentangan dengan tindakan."
+    ],
+    "evidence": "Rafi checked every cable before leaving the lab.",
+    "table": null
+  },
+  {
+    "id": "topic6",
+    "group": "W",
+    "topic": "Sequence of Events",
+    "passage": "Sita planted seeds, watered them, and harvested spinach.",
+    "question": "What happened second?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "She watered the seeds."
+      },
+      {
+        "id": "o1",
+        "text": "She harvested spinach."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "Watered berada setelah planted dan sebelum harvested.",
+      "Watered berada setelah planted dan sebelum harvested."
+    ],
+    "evidence": "Sita planted seeds, watered them, and harvested spinach.",
+    "table": null
+  },
+  {
+    "id": "topic7",
+    "group": "W",
+    "topic": "Prediction",
+    "passage": "The battery warning flashed. Dini reached for her charger.",
+    "question": "What will she probably do next?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Replace the screen."
+      },
+      {
+        "id": "o1",
+        "text": "Charge the device."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "Reached for her charger memberi petunjuk tindakan berikutnya. Screen tidak disebut.",
+      "Reached for her charger memberi petunjuk tindakan berikutnya. Screen tidak disebut."
+    ],
+    "evidence": "The battery warning flashed. Dini reached for her charger.",
+    "table": null
+  },
+  {
+    "id": "topic8",
+    "group": "W",
+    "topic": "Vocabulary in Context",
+    "passage": "The meeting was brief. It lasted only five minutes.",
+    "question": "Brief means ...",
+    "options": [
+      {
+        "id": "o0",
+        "text": "short."
+      },
+      {
+        "id": "o1",
+        "text": "noisy."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "Only five minutes mendukung short. Durasi tidak membuktikan noisy.",
+      "Only five minutes mendukung short. Durasi tidak membuktikan noisy."
+    ],
+    "evidence": "The meeting was brief. It lasted only five minutes.",
+    "table": null
+  },
+  {
+    "id": "topic9",
+    "group": "W",
+    "topic": "Text Structure",
+    "passage": "A text states a view, gives two reasons, then restates the view.",
+    "question": "Which structure fits?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Orientation, complication, resolution."
+      },
+      {
+        "id": "o1",
+        "text": "Thesis, arguments, reiteration."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "View, reasons, restated view cocok analytical exposition. Tidak ada konflik cerita.",
+      "View, reasons, restated view cocok analytical exposition. Tidak ada konflik cerita."
+    ],
+    "evidence": "A text states a view, gives two reasons, then restates the view.",
+    "table": null
+  },
+  {
+    "id": "topic10",
+    "group": "W",
+    "topic": "Categorization",
+    "passage": "A timetable organizes hours. Patience helps you continue after mistakes.",
+    "question": "Which is time management?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Making a timetable."
+      },
+      {
+        "id": "o1",
+        "text": "Being patient."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "Organizes hours adalah kriteria waktu. Patience mengatur ketekunan diri.",
+      "Organizes hours adalah kriteria waktu. Patience mengatur ketekunan diri."
+    ],
+    "evidence": "A timetable organizes hours. Patience helps you continue after mistakes.",
+    "table": null
+  },
+  {
+    "id": "topic11",
+    "group": "W",
+    "topic": "Fact vs Opinion",
+    "passage": "The report lists 20 visitors. The writer calls the event wonderful.",
+    "question": "Which is an opinion?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "There were 20 visitors."
+      },
+      {
+        "id": "o1",
+        "text": "The event was wonderful."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "Wonderful adalah penilaian. 20 visitors adalah klaim jumlah dalam laporan.",
+      "Wonderful adalah penilaian. 20 visitors adalah klaim jumlah dalam laporan."
+    ],
+    "evidence": "The report lists 20 visitors. The writer calls the event wonderful.",
+    "table": null
+  },
+  {
+    "id": "topic12",
+    "group": "W",
+    "topic": "Data Interpretation",
+    "passage": "Club survey: coding 40%, chess 25%. Students may choose both.",
+    "question": "What is the difference?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "15 percentage points."
+      },
+      {
+        "id": "o1",
+        "text": "65 percentage points."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "40 dikurangi 25 = 15 poin persentase. Penjumlahan 65 tidak menjawab selisih.",
+      "40 dikurangi 25 = 15 poin persentase. Penjumlahan 65 tidak menjawab selisih."
+    ],
+    "evidence": "Club survey: coding 40%, chess 25%. Students may choose both.",
+    "table": null
+  },
+  {
+    "id": "topic13",
+    "group": "W",
+    "topic": "Evaluation",
+    "passage": "The guide advises a quiet study area.",
+    "question": "Which action follows the advice?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Studying beside loud speakers."
+      },
+      {
+        "id": "o1",
+        "text": "Moving to a quiet room."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Dasar",
+    "reasons": [
+      "Quiet room menerapkan kriteria quiet study area. Loud speakers menyalahi saran.",
+      "Quiet room menerapkan kriteria quiet study area. Loud speakers menyalahi saran."
+    ],
+    "evidence": "The guide advises a quiet study area.",
+    "table": null
+  }
+]

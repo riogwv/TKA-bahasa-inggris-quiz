@@ -1,0 +1,946 @@
+[
+  {
+    "id": "q15",
+    "group": "L",
+    "topic": "Main Idea & Supporting Details",
+    "passage": "Remote work can reduce commuting time and widen job access. However, poor home internet can exclude some workers. The writer supports flexible work with investment in access.",
+    "question": "Which summary best captures the argument?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Remote work solves every employment problem."
+      },
+      {
+        "id": "o1",
+        "text": "Remote work has benefits but needs support for fair access."
+      },
+      {
+        "id": "o2",
+        "text": "Home internet never affects work."
+      },
+      {
+        "id": "o3",
+        "text": "Office work must end immediately."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "reasons": [
+      "Every problem melebihi klaim.",
+      "Memuat manfaat dan syarat investment in access.",
+      "Bertentangan dengan poor home internet.",
+      "Tidak ada tuntutan mengakhiri kantor."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Lanjut",
+    "evidence": "Remote work can reduce commuting time and widen job access. However, poor home internet can exclude some workers. The writer supports flexible work with investment in access."
+  },
+  {
+    "id": "q16",
+    "group": "L",
+    "topic": "Explicit & Implicit Information",
+    "passage": "The school installed water meters in every workshop. The principal said the readings would guide future conservation measures. No savings figures have been published yet.",
+    "question": "Which statement is explicit?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "The school has already halved water use."
+      },
+      {
+        "id": "o1",
+        "text": "All workshops use equal amounts of water."
+      },
+      {
+        "id": "o2",
+        "text": "Meters were installed in every workshop."
+      },
+      {
+        "id": "o3",
+        "text": "Students caused the previous water loss."
+      }
+    ],
+    "key": [
+      "o2"
+    ],
+    "reasons": [
+      "No savings figures belum mendukung besarnya penghematan.",
+      "Equal amounts tidak disebut.",
+      "Kalimat pertama menyatakan pemasangan langsung.",
+      "Tidak ada data penyebab sebelumnya."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Lanjut",
+    "evidence": "The school installed water meters in every workshop. The principal said the readings would guide future conservation measures. No savings figures have been published yet."
+  },
+  {
+    "id": "q17",
+    "group": "L",
+    "topic": "Inference & Prediction",
+    "passage": "A workshop recycles cooling water. This reduces the amount of fresh water it needs. If the recycling pump fails, the workshop must use fresh water for the same tasks.",
+    "question": "What is the likely result of a pump failure, with output unchanged?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Fresh-water demand will increase."
+      },
+      {
+        "id": "o1",
+        "text": "All costs will disappear."
+      },
+      {
+        "id": "o2",
+        "text": "The workshop will need no water."
+      },
+      {
+        "id": "o3",
+        "text": "Recycling will become automatic without a pump."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "reasons": [
+      "Must use fresh water untuk tugas yang sama meningkatkan kebutuhan air baru.",
+      "Tidak ada dasar biaya nol.",
+      "Tugas tetap membutuhkan pendinginan.",
+      "Pump fails menghentikan mekanisme yang dijelaskan."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Lanjut",
+    "evidence": "A workshop recycles cooling water. This reduces the amount of fresh water it needs. If the recycling pump fails, the workshop must use fresh water for the same tasks."
+  },
+  {
+    "id": "q18",
+    "group": "L",
+    "topic": "Author's Purpose & Intention",
+    "passage": "The article presents the benefits of digital attendance, discusses privacy risks, and proposes a limited trial with clear data rules.",
+    "question": "Why does the writer discuss both benefits and risks?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "To prove that privacy never matters."
+      },
+      {
+        "id": "o1",
+        "text": "To advertise unlimited surveillance."
+      },
+      {
+        "id": "o2",
+        "text": "To reject all digital tools."
+      },
+      {
+        "id": "o3",
+        "text": "To encourage a balanced decision about adoption."
+      }
+    ],
+    "key": [
+      "o3"
+    ],
+    "reasons": [
+      "Risiko justru dibahas.",
+      "Limited trial dan rules membatasi penggunaan.",
+      "Penulis mengusulkan uji coba.",
+      "Manfaat, risiko, dan syarat uji coba mendukung keputusan seimbang."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Lanjut",
+    "evidence": "The article presents the benefits of digital attendance, discusses privacy risks, and proposes a limited trial with clear data rules."
+  },
+  {
+    "id": "q19",
+    "group": "L",
+    "topic": "Argument Analysis",
+    "passage": "The writer argues that repairing school laptops is worthwhile because it extends device life and can reduce replacement costs.",
+    "question": "Which statements function as reasons supporting repair? Select all.",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Repair extends device life."
+      },
+      {
+        "id": "o1",
+        "text": "Repair can reduce replacement costs."
+      },
+      {
+        "id": "o2",
+        "text": "Repair is worthwhile."
+      },
+      {
+        "id": "o3",
+        "text": "The writer has stated a claim."
+      }
+    ],
+    "key": [
+      "o0",
+      "o1"
+    ],
+    "reasons": [
+      "Extends device life menjawab mengapa perbaikan layak.",
+      "Reduce replacement costs memberi alasan ekonomi.",
+      "Ini klaim utama yang perlu didukung.",
+      "Ini komentar tentang teks, bukan alasan manfaat repair."
+    ],
+    "mode": "multi",
+    "table": null,
+    "difficulty": "Lanjut",
+    "evidence": "The writer argues that repairing school laptops is worthwhile because it extends device life and can reduce replacement costs."
+  },
+  {
+    "id": "q20",
+    "group": "L",
+    "topic": "Evidence Evaluation",
+    "passage": "A school claims that LED lights reduce electricity use. A fair test should compare similar rooms with the same lighting hours.",
+    "question": "Which evidence would be strongest?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "A student says LEDs look modern."
+      },
+      {
+        "id": "o1",
+        "text": "Metered use in matched rooms before and after the change."
+      },
+      {
+        "id": "o2",
+        "text": "A lamp seller says all products are excellent."
+      },
+      {
+        "id": "o3",
+        "text": "A photograph of the school gate."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "reasons": [
+      "Penampilan tidak mengukur energi.",
+      "Matched rooms dan jam yang sama membantu menguji penggunaan energi.",
+      "Klaim penjual tanpa pengukuran lemah.",
+      "Foto gerbang tidak relevan."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Lanjut",
+    "evidence": "A school claims that LED lights reduce electricity use. A fair test should compare similar rooms with the same lighting hours."
+  },
+  {
+    "id": "q21",
+    "group": "L",
+    "topic": "Fact vs Opinion",
+    "passage": "A report states that a repair club fixed 18 devices last month. An editorial says the club is the school's most valuable activity.",
+    "question": "Classify each statement as Fact claim or Opinion.",
+    "options": [
+      {
+        "id": "o0",
+        "text": "The club fixed 18 devices last month."
+      },
+      {
+        "id": "o1",
+        "text": "The club is the most valuable activity."
+      },
+      {
+        "id": "o2",
+        "text": "Eighteen repairs appear in the report."
+      }
+    ],
+    "key": [
+      0,
+      1,
+      0
+    ],
+    "reasons": [
+      "Jumlah perbaikan adalah klaim terukur.",
+      "Most valuable memerlukan penilaian nilai.",
+      "Isi laporan adalah klaim yang bisa diperiksa."
+    ],
+    "mode": "category",
+    "table": null,
+    "difficulty": "Lanjut",
+    "evidence": "A report states that a repair club fixed 18 devices last month. An editorial says the club is the school's most valuable activity.",
+    "categories": [
+      "Fact claim",
+      "Opinion"
+    ]
+  },
+  {
+    "id": "q22",
+    "group": "L",
+    "topic": "Claim & Credibility",
+    "passage": "A battery seller claims its product lasts twice as long as competitors. The post has many likes but provides no test method.",
+    "question": "Which checks are relevant? Select all.",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Look for independent comparative tests."
+      },
+      {
+        "id": "o1",
+        "text": "Check whether the seller benefits from the claim."
+      },
+      {
+        "id": "o2",
+        "text": "Accept the claim because it is popular."
+      },
+      {
+        "id": "o3",
+        "text": "Treat missing evidence as proof the battery is fake."
+      }
+    ],
+    "key": [
+      "o0",
+      "o1"
+    ],
+    "reasons": [
+      "Tes independen membantu memeriksa klaim twice as long.",
+      "Penjual memiliki kepentingan komersial.",
+      "Likes bukan ukuran keakuratan.",
+      "Bukti tidak cukup berbeda dari bukti produk palsu."
+    ],
+    "mode": "multi",
+    "table": null,
+    "difficulty": "Lanjut",
+    "evidence": "A battery seller claims its product lasts twice as long as competitors. The post has many likes but provides no test method."
+  },
+  {
+    "id": "q23",
+    "group": "L",
+    "topic": "Cause and Effect",
+    "passage": "When a school offered a cheaper bus pass, some students left their motorcycles at home. Fewer motorcycles entered the parking area during the trial.",
+    "question": "Which cause-effect link is supported?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Parking reduction caused the pass to become expensive."
+      },
+      {
+        "id": "o1",
+        "text": "All traffic in the city disappeared."
+      },
+      {
+        "id": "o2",
+        "text": "The cheaper pass encouraged some students to change transport."
+      },
+      {
+        "id": "o3",
+        "text": "Every student stopped using motorcycles permanently."
+      }
+    ],
+    "key": [
+      "o2"
+    ],
+    "reasons": [
+      "Membalik arah hubungan dan mengubah cheaper.",
+      "Data hanya area sekolah.",
+      "Cheaper pass diikuti perubahan moda some students sesuai mekanisme harga.",
+      "Some dan during trial tidak berarti every atau permanently."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Lanjut",
+    "evidence": "When a school offered a cheaper bus pass, some students left their motorcycles at home. Fewer motorcycles entered the parking area during the trial."
+  },
+  {
+    "id": "q24",
+    "group": "L",
+    "topic": "Text Organization",
+    "passage": "The text introduces vertical farming, explains land and water benefits, discusses electricity and equipment costs, and ends with a conditional recommendation.",
+    "question": "Which outline matches the text?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Issue, benefits, limitations, qualified conclusion."
+      },
+      {
+        "id": "o1",
+        "text": "Conclusion, recipe, story, advertisements."
+      },
+      {
+        "id": "o2",
+        "text": "Only benefits, then an unconditional claim."
+      },
+      {
+        "id": "o3",
+        "text": "History, character conflict, moral."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "reasons": [
+      "Semua fungsi dan urutan sesuai.",
+      "Tidak ada resep atau iklan.",
+      "Menghapus limitations dan syarat.",
+      "Tidak ada struktur naratif."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Lanjut",
+    "evidence": "The text introduces vertical farming, explains land and water benefits, discusses electricity and equipment costs, and ends with a conditional recommendation."
+  },
+  {
+    "id": "q25",
+    "group": "L",
+    "topic": "Critical Reading",
+    "passage": "Ten volunteers tried a new reading app and enjoyed it. The writer concludes that the app will improve the exam scores of every student nationwide.",
+    "question": "What is the strongest criticism?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Enjoyment can never be measured."
+      },
+      {
+        "id": "o1",
+        "text": "Volunteers always lie."
+      },
+      {
+        "id": "o2",
+        "text": "No app can help anyone."
+      },
+      {
+        "id": "o3",
+        "text": "A small satisfaction sample does not establish nationwide score gains."
+      }
+    ],
+    "key": [
+      "o3"
+    ],
+    "reasons": [
+      "Enjoyment dapat ditanyakan, meski bukan hasil belajar.",
+      "Always lie tidak didukung.",
+      "Penolakan mutlak juga tanpa bukti.",
+      "Ten volunteers, enjoyed, dan every student score gains berbeda cakupan serta ukuran."
+    ],
+    "mode": "single",
+    "table": null,
+    "difficulty": "Lanjut",
+    "evidence": "Ten volunteers tried a new reading app and enjoyed it. The writer concludes that the app will improve the exam scores of every student nationwide."
+  },
+  {
+    "id": "q26",
+    "group": "L",
+    "topic": "Perspective & Bias",
+    "passage": "A clothing brand describes its new collection as a \"perfect green solution\". It quotes its designers but provides no production data or worker interviews.",
+    "question": "What suggests possible bias? Select all.",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Only the brand's own representatives are quoted."
+      },
+      {
+        "id": "o1",
+        "text": "Strong praise appears without supporting production data."
+      },
+      {
+        "id": "o2",
+        "text": "Any mention of clothing proves deception."
+      },
+      {
+        "id": "o3",
+        "text": "The absence of worker views may limit the perspective."
+      }
+    ],
+    "key": [
+      "o0",
+      "o1",
+      "o3"
+    ],
+    "reasons": [
+      "Sumber internal saja membatasi sudut pandang.",
+      "Perfect green solution perlu bukti yang tidak disertakan.",
+      "Menyebut produk bukan bukti penipuan.",
+      "Worker interviews dapat menambah perspektif yang hilang."
+    ],
+    "mode": "multi",
+    "table": null,
+    "difficulty": "Lanjut",
+    "evidence": "A clothing brand describes its new collection as a \"perfect green solution\". It quotes its designers but provides no production data or worker interviews."
+  },
+  {
+    "id": "q27",
+    "group": "L",
+    "topic": "Classification",
+    "passage": "A discussion groups statements by their role. A Claim states a position. Evidence gives an observation or measurement supporting it.",
+    "question": "Classify each as Claim or Evidence.",
+    "options": [
+      {
+        "id": "o0",
+        "text": "The school should expand the repair club."
+      },
+      {
+        "id": "o1",
+        "text": "Records show 18 repaired devices."
+      },
+      {
+        "id": "o2",
+        "text": "A cost log shows reduced replacement spending."
+      }
+    ],
+    "key": [
+      0,
+      1,
+      1
+    ],
+    "reasons": [
+      "Should expand menyatakan posisi.",
+      "Records show adalah observasi pendukung.",
+      "Cost log adalah catatan terukur."
+    ],
+    "mode": "category",
+    "table": null,
+    "difficulty": "Lanjut",
+    "evidence": "A discussion groups statements by their role. A Claim states a position. Evidence gives an observation or measurement supporting it.",
+    "categories": [
+      "Claim",
+      "Evidence"
+    ]
+  },
+  {
+    "id": "q28",
+    "group": "L",
+    "topic": "Data & Diagram Interpretation",
+    "passage": "Two workshops completed the same task. The table reports energy use. It gives no information about purchase or maintenance costs.",
+    "question": "Which conclusions are supported? Select all.",
+    "options": [
+      {
+        "id": "o0",
+        "text": "System B uses 20% less energy than A."
+      },
+      {
+        "id": "o1",
+        "text": "System B uses 10 kWh less energy than A."
+      },
+      {
+        "id": "o2",
+        "text": "System B has lower total lifetime costs."
+      },
+      {
+        "id": "o3",
+        "text": "Energy use alone proves there are no other environmental impacts."
+      }
+    ],
+    "key": [
+      "o0",
+      "o1"
+    ],
+    "reasons": [
+      "(50-40)/50 = 20%.",
+      "50-40 = 10 kWh.",
+      "Biaya beli dan perawatan tidak tersedia.",
+      "Energi satu indikator saja."
+    ],
+    "mode": "multi",
+    "table": [
+      [
+        "System",
+        "Energy"
+      ],
+      [
+        "A",
+        "50 kWh"
+      ],
+      [
+        "B",
+        "40 kWh"
+      ]
+    ],
+    "difficulty": "Lanjut",
+    "evidence": "Two workshops completed the same task. The table reports energy use. It gives no information about purchase or maintenance costs."
+  },
+  {
+    "id": "topic14",
+    "group": "L",
+    "topic": "Main Idea & Supporting Details",
+    "passage": "EVs reduce exhaust emissions, but battery production still has costs.",
+    "question": "Which summary fits?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "EVs offer benefits with environmental trade-offs."
+      },
+      {
+        "id": "o1",
+        "text": "EVs have no environmental impact."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "But menyatukan manfaat dan biaya. No impact menghapus batasan.",
+      "But menyatukan manfaat dan biaya. No impact menghapus batasan."
+    ],
+    "evidence": "EVs reduce exhaust emissions, but battery production still has costs.",
+    "table": null
+  },
+  {
+    "id": "topic15",
+    "group": "L",
+    "topic": "Explicit & Implicit Information",
+    "passage": "The farm uses electric lamps all night. The owner is worried about the bill.",
+    "question": "What is implied?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "The farm uses no electricity."
+      },
+      {
+        "id": "o1",
+        "text": "Electricity costs concern the owner."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "Lamps dan worried about the bill mendukung kekhawatiran biaya. A bertentangan.",
+      "Lamps dan worried about the bill mendukung kekhawatiran biaya. A bertentangan."
+    ],
+    "evidence": "The farm uses electric lamps all night. The owner is worried about the bill.",
+    "table": null
+  },
+  {
+    "id": "topic16",
+    "group": "L",
+    "topic": "Inference & Prediction",
+    "passage": "A farm relies on costly lamps. Electricity prices are expected to rise.",
+    "question": "What is likely without other changes?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Higher operating costs."
+      },
+      {
+        "id": "o1",
+        "text": "Free production."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "Biaya lampu bergantung harga listrik. Tidak ada subsidi yang membuat produksi gratis.",
+      "Biaya lampu bergantung harga listrik. Tidak ada subsidi yang membuat produksi gratis."
+    ],
+    "evidence": "A farm relies on costly lamps. Electricity prices are expected to rise.",
+    "table": null
+  },
+  {
+    "id": "topic17",
+    "group": "L",
+    "topic": "Author's Purpose & Intention",
+    "passage": "The article compares gains and risks, then recommends cautious trials.",
+    "question": "Why present both sides?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "To sell a product unconditionally."
+      },
+      {
+        "id": "o1",
+        "text": "To support a balanced decision."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "Gains, risks, cautious trials membentuk pertimbangan seimbang.",
+      "Gains, risks, cautious trials membentuk pertimbangan seimbang."
+    ],
+    "evidence": "The article compares gains and risks, then recommends cautious trials.",
+    "table": null
+  },
+  {
+    "id": "topic18",
+    "group": "L",
+    "topic": "Argument Analysis",
+    "passage": "We should repair devices because this reduces waste.",
+    "question": "Which is the reason?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Repairing reduces waste."
+      },
+      {
+        "id": "o1",
+        "text": "We should repair devices."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "Because memperkenalkan alasan. B adalah klaim rekomendasi.",
+      "Because memperkenalkan alasan. B adalah klaim rekomendasi."
+    ],
+    "evidence": "We should repair devices because this reduces waste.",
+    "table": null
+  },
+  {
+    "id": "topic19",
+    "group": "L",
+    "topic": "Evidence Evaluation",
+    "passage": "A claim concerns energy savings.",
+    "question": "Which evidence helps most?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "A celebrity endorsement."
+      },
+      {
+        "id": "o1",
+        "text": "Meter readings before and after, with comparable usage."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "Meter readings mengukur energi dan pembanding membantu interpretasi. Popularitas tidak mengukur penghematan.",
+      "Meter readings mengukur energi dan pembanding membantu interpretasi. Popularitas tidak mengukur penghematan."
+    ],
+    "evidence": "A claim concerns energy savings.",
+    "table": null
+  },
+  {
+    "id": "topic20",
+    "group": "L",
+    "topic": "Fact vs Opinion",
+    "passage": "The audit measured 12 kg of waste. The editor calls that unacceptable.",
+    "question": "Which part is a judgment?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Unacceptable."
+      },
+      {
+        "id": "o1",
+        "text": "12 kg of waste."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "Unacceptable memakai standar nilai. 12 kg adalah hasil pengukuran yang dilaporkan.",
+      "Unacceptable memakai standar nilai. 12 kg adalah hasil pengukuran yang dilaporkan."
+    ],
+    "evidence": "The audit measured 12 kg of waste. The editor calls that unacceptable.",
+    "table": null
+  },
+  {
+    "id": "topic21",
+    "group": "L",
+    "topic": "Claim & Credibility",
+    "passage": "A repair shop publishes a battery claim without tests and sells that battery.",
+    "question": "What should readers check?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "The number of likes only."
+      },
+      {
+        "id": "o1",
+        "text": "Independent tests and the seller's interest."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "Penjual memiliki kepentingan dan tidak memberi tes. Likes tidak memverifikasi klaim.",
+      "Penjual memiliki kepentingan dan tidak memberi tes. Likes tidak memverifikasi klaim."
+    ],
+    "evidence": "A repair shop publishes a battery claim without tests and sells that battery.",
+    "table": null
+  },
+  {
+    "id": "topic22",
+    "group": "L",
+    "topic": "Cause and Effect",
+    "passage": "A blocked filter restricts airflow, so the machine overheats.",
+    "question": "What causes reduced airflow?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "A blocked filter."
+      },
+      {
+        "id": "o1",
+        "text": "A hotter room mentioned nowhere."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "Restricts airflow menyatakan mekanisme langsung. B menambah fakta baru.",
+      "Restricts airflow menyatakan mekanisme langsung. B menambah fakta baru."
+    ],
+    "evidence": "A blocked filter restricts airflow, so the machine overheats.",
+    "table": null
+  },
+  {
+    "id": "topic23",
+    "group": "L",
+    "topic": "Text Organization",
+    "passage": "An article introduces an issue, compares views, and gives a qualified conclusion.",
+    "question": "Which genre fits?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "A recipe."
+      },
+      {
+        "id": "o1",
+        "text": "A discussion."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "Comparing views adalah ciri pembahasan dua sisi. Tidak ada langkah memasak.",
+      "Comparing views adalah ciri pembahasan dua sisi. Tidak ada langkah memasak."
+    ],
+    "evidence": "An article introduces an issue, compares views, and gives a qualified conclusion.",
+    "table": null
+  },
+  {
+    "id": "topic24",
+    "group": "L",
+    "topic": "Critical Reading",
+    "passage": "Two friends liked an app, so the writer says every student will benefit.",
+    "question": "What is the weakness?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Generalizing from too few people."
+      },
+      {
+        "id": "o1",
+        "text": "Using any evidence at all."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "Two friends terlalu terbatas untuk every student. Bukti sendiri bukan kelemahan.",
+      "Two friends terlalu terbatas untuk every student. Bukti sendiri bukan kelemahan."
+    ],
+    "evidence": "Two friends liked an app, so the writer says every student will benefit.",
+    "table": null
+  },
+  {
+    "id": "topic25",
+    "group": "L",
+    "topic": "Perspective & Bias",
+    "passage": "A company article praises a new policy but quotes only managers.",
+    "question": "Whose perspective is missing?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "More managers."
+      },
+      {
+        "id": "o1",
+        "text": "Employees affected by the policy."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "Only managers menunjukkan pekerja terdampak belum terwakili.",
+      "Only managers menunjukkan pekerja terdampak belum terwakili."
+    ],
+    "evidence": "A company article praises a new policy but quotes only managers.",
+    "table": null
+  },
+  {
+    "id": "topic26",
+    "group": "L",
+    "topic": "Classification",
+    "passage": "Claim: Repairing saves money. Record: The club spent Rp200,000 less.",
+    "question": "Which is evidence?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "The spending record."
+      },
+      {
+        "id": "o1",
+        "text": "The unsupported claim alone."
+      }
+    ],
+    "key": [
+      "o0"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "Catatan biaya mendukung klaim. Pengulangan klaim tidak menambah bukti.",
+      "Catatan biaya mendukung klaim. Pengulangan klaim tidak menambah bukti."
+    ],
+    "evidence": "Claim: Repairing saves money. Record: The club spent Rp200,000 less.",
+    "table": null
+  },
+  {
+    "id": "topic27",
+    "group": "L",
+    "topic": "Data & Diagram Interpretation",
+    "passage": "Pilot: old system 50 kWh, new system 40 kWh, same task.",
+    "question": "What reduction is shown?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "25%."
+      },
+      {
+        "id": "o1",
+        "text": "20%."
+      }
+    ],
+    "key": [
+      "o1"
+    ],
+    "mode": "single",
+    "difficulty": "Menengah",
+    "reasons": [
+      "(50-40)/50 x 100 = 20%. Pembagi adalah nilai awal, bukan nilai baru.",
+      "(50-40)/50 x 100 = 20%. Pembagi adalah nilai awal, bukan nilai baru."
+    ],
+    "evidence": "Pilot: old system 50 kWh, new system 40 kWh, same task.",
+    "table": null
+  }
+]
