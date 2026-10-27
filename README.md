@@ -1,63 +1,86 @@
-# TKA English — Ruang Latihan
+<div align="center">
 
-Website HTML, CSS, dan Vanilla JavaScript tanpa backend, akun, CDN, atau dependency produksi. Semua soal adalah latihan mandiri, bukan soal resmi TKA.
+# 📘 TKA English
+### Ruang latihan bahasa Inggris SMA / SMK
 
-## Menjalankan
+**Baca dengan tenang. Latih strateginya. Pahami alasannya.**
 
-Dari folder ini, jalankan `python -m http.server 8000`, lalu buka `http://localhost:8000`. Gunakan server HTTP; membuka `index.html` melalui `file://` tidak mendukung pemuatan JSON pada sebagian browser.
+Latihan interaktif untuk Bahasa Inggris Wajib, Tingkat Lanjut, dan latihan campuran.
+Dibuat dengan HTML, CSS, dan JavaScript, tanpa akun atau backend.
 
-## Fitur
+`66 soal latihan` · `28 strategi topik` · `Mode terang & gelap`
 
-- Wajib 28 soal, Pilihan 28 soal: dua latihan untuk masing-masing 14 topik.
-- Mixed Practice berisi seluruh 66 soal, termasuk 10 soal berbasis dua bacaan panjang.
-- PG, multi-select, kategori, tabel, 28 strategi topik, level kesulitan.
-- Navigasi nomor soal, sebelumnya/berikutnya, penandaan, perubahan/pengosongan jawaban.
-- Timer opsional 90 detik per soal. Batas waktu tetap berjalan saat tab ditutup atau berada di latar belakang.
-- Shuffle memakai ID pilihan stabil. Baris kategori mempertahankan urutan asli.
-- Pembahasan dan bukti hanya ditampilkan setelah submit, beserta rincian per topik.
-- Sesi, skor terakhir, dan tema disimpan di LocalStorage. Jika penyimpanan diblokir, kuis tetap berjalan dalam memori dan menampilkan pemberitahuan.
-- Tema terang/gelap, layout satu kolom di layar kecil, label input, focus ring, skip link.
-- Reset progres meminta konfirmasi. Beranda menyimpan sesi aktif untuk dilanjutkan.
+</div>
 
-## Penskoran
+---
 
-Satu soal bernilai satu poin bila semua pilihannya tepat. Tidak ada kredit parsial. Kategori yang belum lengkap dihitung sebagai belum lengkap. Persentase dibulatkan dari benar / jumlah soal × 100. Ini aturan latihan pribadi, bukan klaim metode penskoran resmi TKA.
+> **Tentang materi:** Semua soal dalam website ini merupakan soal latihan yang dibuat untuk belajar, bukan soal resmi TKA. Bacaan singkat membantu melatih keterampilan tertentu, tetapi tidak selalu mencerminkan panjang atau tingkat kesulitan ujian yang sesungguhnya.
 
-## Struktur
+## 🧭 Pilih jalur belajarmu
 
-- `index.html`: semantic shell dan aksesibilitas dasar.
-- `css/style.css`: responsive layout dan tema.
-- `js/app.js`: tampilan, interaksi, timer, penyimpanan sesi.
-- `js/quiz.js`: scoring, shuffle, dan validasi sesi murni.
-- `js/data.js`: pemuatan dan pemeriksaan bank soal, wrapper penyimpanan.
-- `data/wajib.json`, `pilihan.json`, `mixed.json`: soal dengan ID stabil, options, key, alasan dan bukti.
-- `data/strategies.json`: ringkasan dan strategi 28 topik.
-- `assets/favicon.svg`: ikon native tanpa gambar eksternal.
-- `tests/quiz.test.js`: tes logika dan integritas konten.
-- `.github/workflows/pages.yml`: tes dan deployment Pages.
-- `scripts/publish.sh`: publikasi melalui GitHub CLI, tanpa menimpa repo yang ada.
+| Mode | Isi | Cocok untuk |
+| --- | --- | --- |
+| **Wajib** | 28 soal dalam 14 topik | Melatih dasar pemahaman bacaan |
+| **Tingkat Lanjut** | 28 soal dalam 14 topik | Melatih analisis dan evaluasi teks |
+| **Mixed Practice** | 66 soal, termasuk 10 soal dari dua bacaan panjang | Menggabungkan latihan dari kedua kategori |
 
-## Pengujian
+Setiap topik memiliki panduan strategi singkat. Soal dan bacaan menggunakan bahasa Inggris; pembahasan dan strategi menggunakan bahasa Indonesia.
 
-Jalankan `npm test` atau `node --test tests/*.test.js` dengan Node 18+. Enam tes menguji cakupan, kunci, scoring, kategori, 100 pengacakan sesi, serta round-trip dan penolakan state rusak. UI browser diuji untuk pilih jawaban, penandaan, navigasi, pemulihan setelah reload, kategori, multi-select, dan submit parsial. Hasil uji contoh: 3 benar, 0 salah, 25 belum lengkap pada Wajib, sesuai tiga soal yang dijawab.
+## ✨ Yang bisa kamu lakukan
 
-Layout mobile disiapkan lewat breakpoint 760px. Pengujian perangkat fisik, semua pembaca layar, dan seluruh browser belum dilakukan. LocalStorage tidak menyinkronkan data antarperangkat. Karena aplikasi statis, kunci dalam JSON bisa dibaca melalui developer tools; aplikasi ini ditujukan untuk latihan, bukan ujian aman.
+- Pilih jawaban tunggal, beberapa jawaban, atau kategorikan pernyataan sesuai jenis soal.
+- Berpindah soal, mengubah jawaban, dan menandai soal yang ingin diperiksa kembali.
+- Aktifkan timer opsional atau kerjakan dengan santai tanpa timer.
+- Lihat skor, jawaban, pembahasan, bukti dari teks, dan hasil per topik setelah selesai.
+- Lanjutkan sesi tersimpan, lihat skor sebelumnya, dan pilih tema terang atau gelap.
+- Gunakan website di HP maupun komputer.
 
-## Publikasi GitHub
+Jawaban benar ditampilkan setelah kuis dikumpulkan. Setiap soal bernilai satu poin jika seluruh jawabannya tepat; jawaban sebagian tidak mendapat poin. Aturan ini dibuat untuk latihan, bukan klaim sistem penskoran resmi TKA.
 
-Repository/Pages belum dibuat oleh sesi pembuatan karena konektor GitHub tidak menyediakan create-repository/Pages dan browser GitHub meminta sign-in.
+## 🎨 Tampilan Blue Hour
 
-Pilihan otomatis dari komputer sendiri: install GitHub CLI resmi, login dengan `gh auth login`, ekstrak ke folder bersih di luar repo lain, lalu jalankan `bash scripts/publish.sh`. Skrip membuat repo publik baru `tka-english-quiz` atau nama bertimestamp bila ditemukan nama yang sudah ada, menguji source, commit, push, lalu mencoba mengaktifkan Pages. Bila aktivasi tidak diizinkan oleh akun, buka Settings > Pages > Source > GitHub Actions, lalu jalankan workflow dari tab Actions. Tidak ada token yang disimpan di proyek.
+Warna biru dipadukan dengan aksen biru kehijauan dan permukaan yang lembut. Pengaturan warna berada di `css/style.css`; mode gelap dapat dipilih dari website.
 
-Pilihan manual: buat repository publik baru, upload isi folder ini (termasuk `.github/workflows/pages.yml`), gunakan branch `main`, lalu pilih GitHub Actions sebagai source Pages. URL final hanya diketahui setelah deployment sukses.
+## 🚀 Menjalankan di komputer
 
-## Materi dan referensi
+Website ini berjalan tanpa backend dan dependency produksi. Untuk mencoba secara lokal, buka terminal di folder proyek dan jalankan:
 
-Materi mengadaptasi panduan latihan TKA English yang disusun sebelumnya dari PDF unggahan 2025: Wajib 17 halaman dan Pilihan 41 halaman. Soal baru tidak diklaim sebagai soal resmi. Bacaan mikro membantu fokus pada satu keterampilan dan tidak selalu mencerminkan panjang/kompleksitas penuh ujian. Kasus mixed adalah kasus fiktif untuk latihan.
+```bash
+python -m http.server 8000
+```
 
-Kerangka resmi yang diverifikasi pada 26 Oktober 2026 mencakup pemahaman tekstual, inferensial, serta evaluasi dan apresiasi. Pengelompokan 28 topik merupakan rancangan belajar. Tidak ada kebijakan baru khusus 2026 yang diasumsikan.
+Kemudian buka `http://localhost:8000` di browser. Gunakan server lokal agar browser dapat memuat file JSON dengan baik.
 
-- [Pusmendik Bahasa Inggris Wajib](https://pusmendik.kemendikdasmen.go.id/tka/tka/view/mata-pelajaran-wajib/sma/bahasa-inggris)
-- [Pusmendik Bahasa Inggris Tingkat Lanjut](https://pusmendik.kemendikdasmen.go.id/tka/tka/view/mata-pelajaran-pilihan/sma/bahasa-inggris-tingkat-lanjut)
+## 🗂️ Struktur proyek
 
-Tidak ada PDF sumber yang disertakan dalam repository publik. Semua konten ditampilkan melalui `textContent` atau DOM API, tanpa injeksi HTML dari bank soal. Google Drive dan Canva tidak diperlukan untuk aset utama karena seluruh tampilan memakai CSS dan SVG sederhana yang dapat diedit.
+| Lokasi | Isi |
+| --- | --- |
+| `index.html` | Halaman utama dan struktur website |
+| `css/style.css` | Tampilan, warna, dan tata letak responsif |
+| `js/` | Tampilan, logika kuis, dan pemuatan data |
+| `data/` | Bank soal dan strategi topik |
+| `assets/` | Ikon website |
+| `tests/` | Pengujian logika dan data soal |
+| `.github/workflows/` | Workflow GitHub Pages opsional |
+| `scripts/` | Skrip publikasi opsional |
+
+## 🌐 Memasang di GitHub Pages
+
+Unggah isi proyek ke repository, dengan `index.html` di halaman utama repository. Pada **Settings → Pages**, pilih **Deploy from a branch**, lalu pilih branch `main` dan folder `/(root)`. Simpan dan tunggu hingga alamat website muncul. Untuk memperbarui tampilan, unggah `style.css` ke folder `css` dan simpan perubahan.
+
+## 🧪 Pengujian dan batasan
+
+Jalankan `npm test` atau `node --test tests/*.test.js` dengan Node 18+. Tes mencakup kelengkapan soal, validitas kunci, penskoran, pengacakan, dan validasi sesi.
+
+Progres dan pengaturan disimpan di browser perangkat melalui LocalStorage dan tidak otomatis berpindah ke perangkat lain. Kunci jawaban tersedia dalam data aplikasi, sehingga website ditujukan untuk latihan mandiri. Tampilan layar kecil telah disiapkan; pengujian pada semua perangkat dan pembaca layar belum dilakukan.
+
+## 📚 Referensi
+
+Materi latihan disusun dengan merujuk PDF Bahasa Inggris Wajib dan Pilihan yang diberikan serta kerangka kompetensi Pusmendik. Pengelompokan 28 topik adalah rancangan belajar untuk website ini.
+
+- [Pusmendik — Bahasa Inggris Wajib](https://pusmendik.kemendikdasmen.go.id/tka/tka/view/mata-pelajaran-wajib/sma/bahasa-inggris)
+- [Pusmendik — Bahasa Inggris Tingkat Lanjut](https://pusmendik.kemendikdasmen.go.id/tka/tka/view/mata-pelajaran-pilihan/sma/bahasa-inggris-tingkat-lanjut)
+
+---
+
+<div align="center">Selamat belajar, satu soal setiap langkah. 💙</div>
