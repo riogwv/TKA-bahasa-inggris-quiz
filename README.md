@@ -10,6 +10,8 @@ Dibuat dengan HTML, CSS, dan JavaScript, tanpa akun atau backend.
 
 `66 soal latihan` · `28 strategi topik` · `Mode terang & gelap`
 
+**[🌐 Buka website TKA English](https://riogwv.github.io/TKA-bahasa-inggris-quiz/)**
+
 </div>
 
 ---
